@@ -1,0 +1,52 @@
+html {
+    font-family: comic sans MS;
+    font-size: 14px;
+    color: rgb(245, 225, 225);
+    }
+
+h3 {
+    text-align: center;
+    font-size: 20px;
+    margin-left: 30px;
+    margin-top: 6px;
+    margin-right: 20px;
+    margin-bottom: 25px;
+}
+
+img {
+    width: 300px;
+    margin-left: 30px;
+    margin-top: 6px;
+    margin-right: 20px;
+    margin-bottom: 25px;
+}
+
+.whole-card {
+    width: fixed;
+    height: 550px;
+    border-style: solid;
+    border-color: #333c50;
+    border-radius: 8px;
+    border-width: 5px;
+    box-shadow: 5px 5px 7px grey;
+    margin-top: 20px; 
+    background-color: rgb(21, 21, 53); 
+}
+
+.animal-information {
+    margin-left: 30px;
+    margin-left: 30px;
+    margin-top: 6px;
+    margin-right: 20px;
+    margin-bottom: 25px;
+}
+
+p.fact {
+    font-style: italic;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 10px;
+  }
