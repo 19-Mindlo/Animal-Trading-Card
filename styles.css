@@ -7,19 +7,13 @@ html {
 h3 {
     text-align: center;
     font-size: 20px;
-    margin-left: 30px;
-    margin-top: 6px;
-    margin-right: 20px;
-    margin-bottom: 25px;
+    margin: 6px 20px 25px 30px;
 }
 
 img {
     width: 300px;
     padding: 10px;
-    margin-left: 30px;
-    margin-top: 6px;
-    margin-right: 20px;
-    margin-bottom: 25px;
+    margin: 6px 20px 25px 30px;
 }
 
 .whole-card {
@@ -35,11 +29,7 @@ img {
 }
 
 .animal-information {
-    margin-left: 30px;
-    margin-left: 30px;
-    margin-top: 6px;
-    margin-right: 20px;
-    margin-bottom: 25px;
+    marging: 6px 20px 25px 20px;
 }
 
 p.fact {
